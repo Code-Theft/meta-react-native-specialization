@@ -30,7 +30,7 @@
 
 ### 5. Study the code below and choose the correct output that you will expect to see on the emulator.
 
-```
+```javascript
 import React from 'react';
 import { Text, View } from 'react-native';
 
@@ -56,12 +56,11 @@ const Cafe = () => {
 export default Cafe;
 ```
 
-- [ ] False
-- [x] 
+
 Welcome!
 I am also a cat!
 I am also a cat!
 I am also a cat!
-- [ ] Welcome!
+
 
 
