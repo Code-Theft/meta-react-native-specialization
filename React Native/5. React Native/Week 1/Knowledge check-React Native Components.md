@@ -16,7 +16,7 @@
 - [x] Core Components
 - [x] Your Custom Native Components
 - [ ] Community Components
-- [x] Utility components
+- [ ] Utility components
 
 
 ### 4. Custom Native components are written in the following languages. Select all that apply.
