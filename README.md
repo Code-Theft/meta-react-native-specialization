@@ -1,4 +1,4 @@
-# Meta-frontend-development-professional-certificate
+# Meta-React-Native-Specialization
 
 A walkthrough of Meta React Native Specialization by Coursera.
 
@@ -11,4 +11,4 @@ A walkthrough of Meta React Native Specialization by Coursera.
 - React Native
 - Principles of UX/UI Design
 - Working with Data
-- Capstone (react App)
+- Capstone (React App)
